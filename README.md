@@ -10,3 +10,4 @@ lat | latitude | Integer
 weather | Weather conditions and icons | Object
 clouds | Cloudiness | String
 cloudsName | Cloudiness | String
+icon | Weather icon id | String
