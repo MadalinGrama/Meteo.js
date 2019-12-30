@@ -8,3 +8,5 @@ coord | Geo location; latitude and longitude | Object
 lon | longitude | Integer
 lat | latitude | Integer
 weather | Weather conditions and icons | Object
+clouds | Cloudiness | String
+cloudsName | Cloudiness | String
