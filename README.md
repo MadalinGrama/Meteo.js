@@ -19,3 +19,5 @@ tempMin | Minimum temperature at the moment | Integer
 tempMax | Maximum temperature at the momen | Integer
 pressure | Atmospheric pressure | Integer
 humidity | Humidity % | Integer
+wind | Wind info | Object
+windSpeed | Wind speed: meter/s | Integer
