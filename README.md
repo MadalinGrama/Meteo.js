@@ -2,8 +2,8 @@
 > A simple javascript library that display the current weather of any city.
 
 
-|Parameter | Description |
+|Parameter | Description | Return |
 --- | ---
-coord | Geo location; latitude and longitude
-lon | longitude
-lat | latitude 
+coord | Geo location; latitude and longitude | Object
+lon | longitude | Integer
+lat | latitude | Integer 
