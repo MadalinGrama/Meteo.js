@@ -17,3 +17,5 @@ celsius | Temp in Celsius | Integer
 feelsLike | Temp feels like | Integer
 tempMin | Minimum temperature at the moment | Integer
 tempMax | Maximum temperature at the momen | Integer
+pressure | Atmospheric pressure | Integer
+humidity | Humidity % | Integer
