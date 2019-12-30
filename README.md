@@ -11,3 +11,4 @@ weather | Weather conditions and icons | Object
 clouds | Cloudiness | String
 cloudsName | Cloudiness | String
 icon | Weather icon id | String
+main | Group of weather parameters (temp, feels, pressure.) | Object
