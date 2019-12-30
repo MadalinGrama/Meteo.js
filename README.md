@@ -3,4 +3,7 @@
 
 
 |Parameter | Description |
---- | --- 
+--- | ---
+coord | Geo location; latitude and longitude
+lon | longitude
+lat | latitude 
