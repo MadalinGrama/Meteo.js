@@ -3,7 +3,7 @@
 
 
 |Parameter | Description | Return |
---- | ---
+--- | --- | ---
 coord | Geo location; latitude and longitude | Object
 lon | longitude | Integer
-lat | latitude | Integer 
+lat | latitude | Integer
