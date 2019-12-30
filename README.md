@@ -25,3 +25,13 @@ info | Country Code, Sunrise/Sunset Time | Object
 country | Country Code | String
 sunrise | Sunrise Time: unix, UTC | Integer
 sunset | Sunset Time: unix, UTC    | Integer
+sunriseTime | Mon Dec 30 2019 07:51:34 GMT+0200 | String
+sunsetTIme | Mon Dec 30 2019 07:51:34 GMT+0200 | String
+sunriseHours | Hours | Integer
+sunsetHours | Hours | Integer
+sunriseMinutes | Minutes | Integer
+sunsetMinutes | Minutes | Integer
+sunriseSeconds | Seconds | Integer
+sunsetSeconds | Seconds | Integer
+sunriseHumanTime | Hours + Minutes + Seconds | String
+sunsetHumanTime | Hours + Minutes + Seconds | String
