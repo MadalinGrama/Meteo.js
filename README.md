@@ -7,3 +7,4 @@
 coord | Geo location; latitude and longitude | Object
 lon | longitude | Integer
 lat | latitude | Integer
+weather | Weather conditions and icons | Object
