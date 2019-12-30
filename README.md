@@ -21,3 +21,7 @@ pressure | Atmospheric pressure | Integer
 humidity | Humidity % | Integer
 wind | Wind info | Object
 windSpeed | Wind speed: meter/s | Integer
+info | Country Code, Sunrise/Sunset Time | Object
+country | Country Code | String
+sunrise | Sunrise Time: unix, UTC | Integer
+sunset | Sunset Time: unix, UTC    | Integer
