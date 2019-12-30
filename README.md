@@ -1,12 +1,18 @@
 # Meteo.js
 > A simple javascript library that display the current weather of any city.
 
-## Installation
-```
+## :cloud: Installation
+```sh
 # Using git clone
 cd my-project
 git clone https://github.com/MadalinGrama/Meteo.js.git
 
+```
+## :clipboard: Instructions
+
+```html
+After git clone include Meteo.js before </body>
+<script src="path/to/meteo.js"></script>
 ```
 
 |Parameter | Description | Return |
